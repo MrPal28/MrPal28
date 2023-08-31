@@ -1,4 +1,4 @@
-
+![logo](https://github.com/MrPal28/MrPal28/blob/main/Blue%20%26%20Pink%20Gradient%20Music%20Youtube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Arindam Pal</h1>
 <h3 align="center">A passionate learner from India</h3>
 
