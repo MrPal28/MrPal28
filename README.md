@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Arindam Pal</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-- 🌱 I’m currently learning **C language, Cyber security, cloud computing**
+- 🌱 I’m currently learning **Java , Spring Boot , OS , DBMS**
 
 - 📫 How to reach me **arindampal669@gmail.com**
 
-- ⚡ Fun fact **I am funny😅**
+- ⚡ Fun fact **I am not funny😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
