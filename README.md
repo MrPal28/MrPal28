@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arindam-xi.vercel.app/](https://arindam-xi.vercel.app/)
 
-- 📝 I regularly write articles on [my heart "hahahah..!"](my heart "hahahah..!")
+- 📝 I regularly write articles on [my heart "hahahah..!"]
 
 - 💬 Ask me about **nothing**
 
